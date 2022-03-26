@@ -1,6 +1,4 @@
 # gitskills
 fast
-fdsgd
-fdfdf
 
 
