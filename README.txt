@@ -1,6 +1,5 @@
 # gitskills
-fast
-fdsgd
-fdfdf
+fast123
+
 
 
